@@ -7,7 +7,7 @@ public abstract class Aplicant{
 	protected int punctaj;
 	protected int nr_proiecte;
 	protected String[] denumireProiect;
-
+	private static final int punctajMinimPentruAcceptare = 80;
 
 	public String getNume() {
 		return nume;
@@ -23,7 +23,6 @@ public abstract class Aplicant{
 	}
 
 	public int getVarsta() {
-
 		return varsta;
 	}
 
@@ -42,12 +41,12 @@ public abstract class Aplicant{
 	}
 
 
-	public void statut(){
-		if(punctaj>80)
-			System.out.println("Aplicantul " + nume + " " + prenume + " a fost acceptat.");
-		else
-			System.out.println("Aplicantul "+nume+" "+prenume+" nu a fost acceptat.");
-		}
+	public void statut() {
+		String mesaj = punctaj > punctajMinimPentruAcceptare
+				? "Aplicantul %s %s a fost acceptat."
+				: "Aplicantul %s %s nu a fost acceptat.";
+		System.out.println(String.format(mesaj, nume, prenume));
+	}
 
 	
 	public Aplicant() {
@@ -62,10 +61,12 @@ public abstract class Aplicant{
 		this.nr_proiecte = nr_proiecte;
 		this.denumireProiect = denumireProiect;
 	}
+
 	public int getNr_proiecte() {
 
 		return nr_proiecte;
 	}
+
 	public void setNr_proiecte(int nr_proiecte,String[] denumireProiect) {
 		this.denumireProiect = denumireProiect;
 		this.nr_proiecte = nr_proiecte;

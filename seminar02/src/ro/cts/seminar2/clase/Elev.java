@@ -3,11 +3,9 @@ package ro.cts.seminar2.clase;
 import java.util.Arrays;
 
 public class Elev extends Aplicant{
-
 	private int clasa;
 	private String tutore;
 	private static float sumaFinantata = 30;
-
 
 	public int getClasa() {
 		return clasa;
@@ -21,8 +19,7 @@ public class Elev extends Aplicant{
 	public void setTutore(String tutore) {
 		this.tutore = tutore;
 	}
-	
-	
+
 	@Override
 	public String toString() {
 		return "Elev: Nume=" + nume + ", Prenume=" + prenume + ", Varsta="
