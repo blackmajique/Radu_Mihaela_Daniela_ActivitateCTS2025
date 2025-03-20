@@ -1,6 +1,5 @@
-package seminar3.SingletonRegistry;
+package ro.cts.seminar03.SingletonRegistry;
 
-import java.time.LocalDate;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;

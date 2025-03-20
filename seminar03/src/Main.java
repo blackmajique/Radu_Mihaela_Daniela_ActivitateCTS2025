@@ -1,5 +1,5 @@
-import ro.cts.seminar3.clase.AutoritatePescuitEager;
-import ro.cts.seminar3.clase.AutoritatePescuitLazy;
+import ro.cts.seminar03.clase.AutoritatePescuitEager;
+import ro.cts.seminar03.clase.AutoritatePescuitLazy;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package seminar3.SingletonRegistry;
+package ro.cts.seminar03.SingletonRegistry;
 
 // autorizatie emisa de AutorizatiePescuit
 public class Autorizatie {

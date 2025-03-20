@@ -1,31 +1,26 @@
-package ro.cts.seminar3.clase;
+package ro.cts.seminar03.clase;
 
-// clasa implementeaza patternul Singleton folosind lazy
-// instanta este creata doar cand este ceruta pentru PRIMA DATA
-public class AutoritatePescuitLazy {
+// clasa implementeaza Singleton folosind initializarea eager
+// instanta este creata imediat, chiar daca nu este folosita
+public class AutoritatePescuitEager {
     private String denumire;
     private String website;
     private int nrAngajati;
     private int nrAutorizatiiEmise;
 
-    // instanta initializata NULL
-    private static AutoritatePescuitLazy instance = null;
+    // instanta este creata imediat
+    private static AutoritatePescuitEager instance = new AutoritatePescuitEager("ANPA", "www.anpa.ro", 10, 100);
 
-    // tot constructor privat pentru prevenirea crearulor de instante noi
-    private AutoritatePescuitLazy(String denumire, String website, int nrAngajati, int nrAutorizatiiEmise) {
+    // constructor privat pentru a preveni crearea unei noi instante
+    private AutoritatePescuitEager(String denumire, String website, int nrAngajati, int nrAutorizatiiEmise) {
         this.denumire = denumire;
         this.website = website;
         this.nrAngajati = nrAngajati;
         this.nrAutorizatiiEmise = nrAutorizatiiEmise;
     }
 
-    // metoda statica sincronizata pentru a obtine instanta (thread-safe)
-    // instanta este creata doar cand getInstance() este apelata pentru prima data
-    // sync: pentru a fi sigura in mediile multi-threaded
-    public synchronized static AutoritatePescuitLazy getInstance(String denumire, String website, int nrAngajati, int nrAutorizatiiEmise) {
-        if (instance == null) {
-            instance = new AutoritatePescuitLazy(denumire, website, nrAngajati, nrAutorizatiiEmise);
-        }
+    // metoda statica pentru a returna instanta
+    public static AutoritatePescuitEager getInstance() {
         return instance;
     }
 
@@ -60,7 +55,7 @@ public class AutoritatePescuitLazy {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("AutoritatePescuitLazy{");
+        final StringBuilder sb = new StringBuilder("AutoritatePescuitEager{");
         sb.append("denumire='").append(denumire).append('\'');
         sb.append(", website='").append(website).append('\'');
         sb.append(", nrAngajati=").append(nrAngajati);
