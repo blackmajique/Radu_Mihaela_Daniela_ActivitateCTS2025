@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/seminar01/seminar01.iml" />
@@ -9,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/seminar03/seminar03.iml" filepath="$PROJECT_DIR$/seminar03/seminar03.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar04/seminar04.iml" filepath="$PROJECT_DIR$/seminar04/seminar04.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar05/seminar05.iml" filepath="$PROJECT_DIR$/seminar05/seminar05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar06/seminar06.iml" filepath="$PROJECT_DIR$/seminar06/seminar06.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar01/src.ro.cts/src.ro.cts.iml" filepath="$PROJECT_DIR$/seminar01/src.ro.cts/src.ro.cts.iml" />
     </modules>
   </component>

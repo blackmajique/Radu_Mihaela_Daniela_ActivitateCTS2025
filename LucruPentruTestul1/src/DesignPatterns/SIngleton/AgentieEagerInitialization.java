@@ -4,6 +4,15 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+// sa se creeze instanta timpuriu, crearea instantei s-ar putea sa creeze erori
+// static bloc la lucrare
+// thread safe - aplicatia va rula pe mai multe fire de executie
+// registry - mai multe file de mapare
+// cu fisiere nu
+// la builder putem implementa orie versiune vrem (da se gandeste profu)
+// la prototype - specifica daca tre shallow copy sau deep copy
+// de obicei specifica
+
 // instanta AgentieEagerIntialization este creata imediat - in momentul incarcarii clasei,
 // nu cand o cerem noi (nu se asteapta sa fie apelata metoda getInstance()
 
@@ -74,7 +83,6 @@ public class AgentieEagerInitialization {
                 ", listaServicii=" + listaServicii +
                 '}';
     }
-
     //    public static AgentieEagerInitialization getInstance(String nume, float capital, String codFiscal, int numarAngajati, List<String> listaServicii) {
 //        return instance;
 //    }
