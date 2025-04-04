@@ -1,6 +1,3 @@
-package DesignPatterns.SIngleton;
-
-import java.util.Arrays;
 import java.util.List;
 
 // instanța este creată doar atunci când ai nevoie de ea

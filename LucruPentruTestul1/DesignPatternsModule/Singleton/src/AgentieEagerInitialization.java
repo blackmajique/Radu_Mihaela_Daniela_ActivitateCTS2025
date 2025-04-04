@@ -1,26 +1,25 @@
-package DesignPatterns.SIngleton;
-
+import java.util.Arrays;
 import java.util.List;
 
-// thread-safe singleton - asigura ca instanta se creeaza o singura data
-// funcționează corect atunci când este accesat simultan de mai multe threaduri (fire de execuție),
-// fără să apară erori sau comportamente neașteptate.
 
-public class AgentieThreadSafe {
+// instanta AgentieEagerIntialization este creata imediat - in momentul incarcarii clasei,
+// nu cand o cerem noi (nu se asteapta sa fie apelata metoda getInstance()
+
+public class AgentieEagerInitialization {
     private String numeAgentie;
     private float capital;
     private int numarAngajati;
     private String codFiscal;
     private List<String> listaServicii;
 
-    private static AgentieThreadSafe instance = null;
+    private static final AgentieEagerInitialization instance = new AgentieEagerInitialization();
 
-    private AgentieThreadSafe(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
-        this.numeAgentie = numeAgentie;
-        this.capital = capital;
-        this.numarAngajati = numarAngajati;
-        this.codFiscal = codFiscal;
-        this.listaServicii = listaServicii;
+    private AgentieEagerInitialization() {
+        this.numeAgentie = "CalatoriiFrumoase";
+        this.capital = 1000;
+        this.numarAngajati = 50;
+        this.codFiscal = "001";
+        this.listaServicii = Arrays.asList("Rezervari", "Consultanta", "Transport", "Cazare");
     }
 
     public String getNumeAgentie() {
@@ -65,7 +64,7 @@ public class AgentieThreadSafe {
 
     @Override
     public String toString() {
-        return "AgentieThreadSafe{" +
+        return "AgentieEagerInitialization{" +
                 "numeAgentie='" + numeAgentie + '\'' +
                 ", capital=" + capital +
                 ", numarAngajati=" + numarAngajati +
@@ -73,11 +72,11 @@ public class AgentieThreadSafe {
                 ", listaServicii=" + listaServicii +
                 '}';
     }
+    //    public static AgentieEagerInitialization getInstance(String nume, float capital, String codFiscal, int numarAngajati, List<String> listaServicii) {
+//        return instance;
+//    }
 
-    public static synchronized AgentieThreadSafe getInstance(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
-        if (instance == null) {
-            instance = new AgentieThreadSafe(numeAgentie, capital, numarAngajati,codFiscal, listaServicii);
-        }
+        public static AgentieEagerInitialization getInstance() {
         return instance;
     }
 }

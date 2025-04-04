@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Factory/Factory.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SeminarCTS.iml" filepath="$PROJECT_DIR$/SeminarCTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/seminar01/seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/seminar02/seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar03/seminar03.iml" filepath="$PROJECT_DIR$/seminar03/seminar03.iml" />
