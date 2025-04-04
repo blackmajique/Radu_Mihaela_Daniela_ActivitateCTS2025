@@ -1,4 +1,4 @@
-package ro.cts.seminar05.FactoryMethod.Clase;
+package Clase;
 
 public abstract class Angajat {
     private String nume;

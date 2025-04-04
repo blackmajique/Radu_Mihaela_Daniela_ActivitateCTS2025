@@ -1,6 +1,6 @@
-package ro.cts.seminar05.FactoryMethod.Fabrici;
+package Fabrici;
 
-import ro.cts.seminar05.FactoryMethod.Clase.Angajat;
+import Clase.Angajat;
 
 public interface FactoryPersonal {
 

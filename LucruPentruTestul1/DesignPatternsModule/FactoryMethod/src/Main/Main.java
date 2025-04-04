@@ -1,14 +1,14 @@
-package ro.cts.seminar05.FactoryMethod.Main;
+package Main;
 
 //A.3. În cadrul aplicației personalul spitalului este de mai multe tipuri: Brancardier, Asistent, Medic,
 //Secretar, Registrator. Să se implementeze modulul care pune la dispoziției crearea de obiecte din
 //familia obiectelor PersonalSpital stiind faptul ca personalul este împărțit in doua categorii:
 //personal medical si personal non-Medical.
 
-import ro.cts.seminar05.FactoryMethod.Clase.Angajat;
-import ro.cts.seminar05.FactoryMethod.Fabrici.FactoryPersonalMedical;
-import ro.cts.seminar05.FactoryMethod.Fabrici.FactoryPersonalNonMedical;
-import ro.cts.seminar05.FactoryMethod.Fabrici.TipPersonalMedical;
+import Clase.Angajat;
+import Fabrici.FactoryPersonalMedical;
+import Fabrici.FactoryPersonalNonMedical;
+import Fabrici.TipPersonalMedical;
 
 public class Main {
     public static void main(String[] args) {

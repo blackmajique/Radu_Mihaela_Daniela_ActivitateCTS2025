@@ -1,4 +1,4 @@
-package ro.cts.seminar05.FactoryMethod.Clase;
+package Clase;
 
 public class Secretar extends Angajat{
 

@@ -1,11 +1,11 @@
-package ro.cts.seminar05.FactoryMethod.Fabrici;
+package Fabrici;
 
-import ro.cts.seminar05.FactoryMethod.Clase.Angajat;
-import ro.cts.seminar05.FactoryMethod.Clase.Asistent;
-import ro.cts.seminar05.FactoryMethod.Clase.Medic;
+import Clase.Angajat;
+import Clase.Asistent;
+import Clase.Medic;
 
-import static ro.cts.seminar05.FactoryMethod.Fabrici.TipPersonalNonMedical.PORTAR;
-import static ro.cts.seminar05.FactoryMethod.Fabrici.TipPersonalNonMedical.SECRETAR;
+import static Fabrici.TipPersonalNonMedical.PORTAR;
+import static Fabrici.TipPersonalNonMedical.SECRETAR;
 
 public class FactoryPersonalNonMedical implements FactoryPersonal {
     private int vechime;

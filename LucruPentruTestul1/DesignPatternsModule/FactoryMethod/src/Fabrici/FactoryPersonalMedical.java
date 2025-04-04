@@ -1,11 +1,11 @@
-package ro.cts.seminar05.FactoryMethod.Fabrici;
+package Fabrici;
 
-import ro.cts.seminar05.FactoryMethod.Clase.Angajat;
-import ro.cts.seminar05.FactoryMethod.Clase.Asistent;
-import ro.cts.seminar05.FactoryMethod.Clase.Medic;
+import Clase.Angajat;
+import Clase.Asistent;
+import Clase.Medic;
 
-import static ro.cts.seminar05.FactoryMethod.Fabrici.TipPersonalMedical.ASISTENT;
-import static ro.cts.seminar05.FactoryMethod.Fabrici.TipPersonalMedical.MEDIC;
+import static Fabrici.TipPersonalMedical.ASISTENT;
+import static Fabrici.TipPersonalMedical.MEDIC;
 
 public class FactoryPersonalMedical implements FactoryPersonal {
     private double spor;
