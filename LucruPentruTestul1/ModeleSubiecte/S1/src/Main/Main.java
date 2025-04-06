@@ -22,8 +22,18 @@ package Main;
 //    1p. Să se testeze soluția prin crearea a cel puțin patru
 //    obiecte din cel puțin două categorii diferite din familia bicicletelor.
 
+import Clase.Builder.Bicicleta;
+import Clase.Builder.BicicletaBuilder;
+import Clase.SimpleFactory.Biciclete;
+import Clase.SimpleFactory.SimpleFactory;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        Bicicleta bicicleta = new BicicletaBuilder().setCascaProtectie(true).setOchelari(true).build();
+        System.out.println(bicicleta);
+
+        SimpleFactory simpleFactory = new SimpleFactory(true, false);
+        Bicicleta bicicleta1 = simpleFactory.getBicicleta(Biciclete.MTB, 15, "O frana buna", 1000);
+        bicicleta1.descriere();
     }
 }
