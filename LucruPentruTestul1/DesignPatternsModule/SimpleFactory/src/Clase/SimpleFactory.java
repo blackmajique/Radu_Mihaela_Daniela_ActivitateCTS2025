@@ -1,8 +1,8 @@
 package Clase;
 
 public class SimpleFactory {
-    private float cantitate;
-    private float pret;
+    private final float cantitate;
+    private final float pret;
 
     public SimpleFactory(float cantitate, float pret) {
         this.cantitate = cantitate;

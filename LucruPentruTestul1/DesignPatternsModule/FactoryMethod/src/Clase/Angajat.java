@@ -1,8 +1,8 @@
 package Clase;
 
 public abstract class Angajat {
-    private String nume;
-    private Double salariu;
+    private final String nume;
+    private final Double salariu;
 
     public Angajat(String nume, Double salariu) {
         this.nume = nume;

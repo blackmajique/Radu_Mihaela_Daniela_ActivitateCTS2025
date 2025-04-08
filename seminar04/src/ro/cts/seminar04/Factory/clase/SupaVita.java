@@ -1,7 +1,7 @@
 package ro.cts.seminar04.Factory.clase;
 
 public class SupaVita extends Supa {
-    private double pretExtra;
+    private final double pretExtra;
 
     public SupaVita(int gramaj, double pretPerSutaDeGrame, String ingrediente, double pretSmantana) {
         super(gramaj, pretPerSutaDeGrame, ingrediente);

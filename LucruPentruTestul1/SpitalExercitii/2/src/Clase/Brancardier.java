@@ -1,7 +1,7 @@
 package Clase;
 
 public class Brancardier extends Personal{
-    private int nrOreDeLucruPeSaptamana;
+    private final int nrOreDeLucruPeSaptamana;
 
     public Brancardier(String nume, float salariu, float sporDeMunca, boolean areBonuriDeMasa, int nrOreDeLucruPeSaptamana) {
         super(nume, salariu, sporDeMunca, areBonuriDeMasa);

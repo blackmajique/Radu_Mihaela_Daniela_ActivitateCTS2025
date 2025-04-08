@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Elev extends Aplicant{
 	private int clasa;
 	private String tutore;
-	private static float sumaFinantata = 30;
+	private static final float sumaFinantata = 30;
 
 	public int getClasa() {
 		return clasa;

@@ -5,8 +5,8 @@ import interfete.iPredabil;
 
 public class Profesor extends Persoana implements iPredabil {
     private int idProfesor;
-    private float salariu;
-    private float sporVechime;
+    private final float salariu;
+    private final float sporVechime;
 
     public int getIdProfesor() {
         return idProfesor;
@@ -52,9 +52,7 @@ public class Profesor extends Persoana implements iPredabil {
 
     @Override
     public void preda() {
-        StringBuilder sb = new StringBuilder("Profesorul ");
-        sb.append(this.getNume()).append(" in varsta de ").append(varsta).append(" preda la curs.");
-        System.out.println(sb.toString());
+        System.out.println("Profesorul " + this.getNume() + " in varsta de " + varsta + " preda la curs.");
     }
 
     @Override

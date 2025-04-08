@@ -1,7 +1,7 @@
 package Clase;
 
 public class PacientBuilder implements IBuild{
-    private Pacient pacient;
+    private final Pacient pacient;
 
     public PacientBuilder() {
         pacient = new Pacient();

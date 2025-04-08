@@ -8,18 +8,18 @@ public class Main {
         System.out.println(autoritatePescuitEager.toString());
 
         autoritatePescuitEager.concediaza(2);
-        System.out.println(autoritatePescuitEager.toString());
+        System.out.println(autoritatePescuitEager);
 
         autoritatePescuitEager.setDenumire("ANpPA");
         autoritatePescuitEager.setWebsite("www.anppa.ro");
-        System.out.println(autoritatePescuitEager.toString());
+        System.out.println(autoritatePescuitEager);
 
         autoritatePescuitEager.emiteAutorizatie("Popescu Ion");
-        System.out.println(autoritatePescuitEager.toString());
+        System.out.println(autoritatePescuitEager);
 
         AutoritatePescuitEager altaAutoritateEager = AutoritatePescuitEager.getInstance();
         altaAutoritateEager.emiteAutorizatie("Popa Gigel");
-        System.out.println(altaAutoritateEager.toString());
+        System.out.println(altaAutoritateEager);
 
         // lazy
         AutoritatePescuitLazy autoritatePescuitLazy = AutoritatePescuitLazy.getInstance("ANPA", "www.anpa.ro", 10, 150);
@@ -27,6 +27,6 @@ public class Main {
 
         AutoritatePescuitLazy altaAutoritateLazy = AutoritatePescuitLazy.getInstance("Daniela", "daniela.com", 20, 100);
         altaAutoritateLazy.angajeaza(3);
-        System.out.println(autoritatePescuitLazy.toString());
+        System.out.println(autoritatePescuitLazy);
     }
 }

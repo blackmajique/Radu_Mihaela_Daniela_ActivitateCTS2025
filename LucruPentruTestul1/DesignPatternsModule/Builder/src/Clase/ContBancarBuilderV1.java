@@ -1,7 +1,7 @@
 package Clase;
 
 public class ContBancarBuilderV1 implements IBuilder {
-    private ContBancar contBancar;
+    private final ContBancar contBancar;
 
     public ContBancarBuilderV1() {
         contBancar = new ContBancar();

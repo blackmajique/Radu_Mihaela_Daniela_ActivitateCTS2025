@@ -25,7 +25,7 @@ public class Main {
         System.out.println(a2);
 
         // thread-safe
-        AgentieThreadSafe a3 = AgentieThreadSafe.getInstance("unNume", 1000, 1000, "001", Arrays.asList("Rezervare"));
+        AgentieThreadSafe a3 = AgentieThreadSafe.getInstance("unNume", 1000, 1000, "001", List.of("Rezervare"));
         System.out.println(a3);
 
         Runnable task = () -> {

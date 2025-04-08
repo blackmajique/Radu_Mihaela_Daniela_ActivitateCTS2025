@@ -3,7 +3,7 @@ package Clase.SimpleFactory;
 import Clase.Builder.Bicicleta;
 
 public class MTB extends Bicicleta {
-    private float pret;
+    private final float pret;
 
     public MTB(int diametruRoti, String tipFrana, boolean cascaProtectie, boolean ochelari, float pret) {
         super(diametruRoti, tipFrana, cascaProtectie, ochelari);

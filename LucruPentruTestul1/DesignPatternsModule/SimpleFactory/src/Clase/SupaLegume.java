@@ -1,7 +1,7 @@
 package Clase;
 
 public class SupaLegume extends Supa{
-    private boolean areCartofi;
+    private final boolean areCartofi;
 
     public SupaLegume(float cantitate, float pret, boolean areSmantana, boolean areCartofi) {
         super(cantitate, pret, areSmantana);

@@ -1,8 +1,8 @@
 package ro.cts.seminar06.Clase;
 
 public class MedicamentSpital {
-    private String numeMedicament;
-    private float pretMedicament;
+    private final String numeMedicament;
+    private final float pretMedicament;
 
     public MedicamentSpital(String numeMedicament, float pretMedicament) {
         this.numeMedicament = numeMedicament;

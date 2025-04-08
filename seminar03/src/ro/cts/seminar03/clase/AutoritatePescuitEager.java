@@ -9,7 +9,7 @@ public class AutoritatePescuitEager {
     private int nrAutorizatiiEmise;
 
     // instanta este creata imediat
-    private static AutoritatePescuitEager instance = new AutoritatePescuitEager("ANPA", "www.anpa.ro", 10, 100);
+    private static final AutoritatePescuitEager instance = new AutoritatePescuitEager("ANPA", "www.anpa.ro", 10, 100);
 
     // constructor privat pentru a preveni crearea unei noi instante
     private AutoritatePescuitEager(String denumire, String website, int nrAngajati, int nrAutorizatiiEmise) {
@@ -55,12 +55,11 @@ public class AutoritatePescuitEager {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("AutoritatePescuitEager{");
-        sb.append("denumire='").append(denumire).append('\'');
-        sb.append(", website='").append(website).append('\'');
-        sb.append(", nrAngajati=").append(nrAngajati);
-        sb.append(", nrAutorizatiiEmise=").append(nrAutorizatiiEmise);
-        sb.append('}');
-        return sb.toString();
+        String sb = "AutoritatePescuitEager{" + "denumire='" + denumire + '\'' +
+                ", website='" + website + '\'' +
+                ", nrAngajati=" + nrAngajati +
+                ", nrAutorizatiiEmise=" + nrAutorizatiiEmise +
+                '}';
+        return sb;
     }
 }

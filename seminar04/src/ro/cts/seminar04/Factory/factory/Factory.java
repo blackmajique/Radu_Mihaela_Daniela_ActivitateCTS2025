@@ -7,8 +7,8 @@ import ro.cts.seminar04.Factory.clase.SupaVita;
 
 public class Factory {
 
-    private int gramaj;
-    private double pretPerSutaDeGrame;
+    private final int gramaj;
+    private final double pretPerSutaDeGrame;
 
     public Factory(int gramaj, double pretPerSutaDeGrame) {
         this.gramaj = gramaj;

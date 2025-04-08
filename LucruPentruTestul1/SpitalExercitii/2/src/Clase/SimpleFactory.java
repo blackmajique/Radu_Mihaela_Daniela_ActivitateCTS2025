@@ -1,10 +1,10 @@
 package Clase;
 
 public class SimpleFactory {
-    private String nume;
-    private float salariu;
-    private float sporDeMunca;
-    private boolean areBonuriDeMasa;
+    private final String nume;
+    private final float salariu;
+    private final float sporDeMunca;
+    private final boolean areBonuriDeMasa;
 
     public SimpleFactory(String nume, float salariu, float sporDeMunca, boolean areBonuriDeMasa) {
         this.nume = nume;

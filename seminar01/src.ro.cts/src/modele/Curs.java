@@ -9,8 +9,8 @@ import java.util.List;
 public class Curs {
     private String numeCurs;
     private int credite;
-    private iPredabil profesor;
-    private List<Student> studenti;
+    private final iPredabil profesor;
+    private final List<Student> studenti;
 
     public Curs(String numeCurs, int credite, iPredabil profesor, List<Student> studenti) {
         this.numeCurs = numeCurs;
@@ -47,25 +47,24 @@ public class Curs {
     }
 
     public void afisareDetalii(){
-        StringBuilder sb = new StringBuilder("La cursul ");
-        sb.append(this.getNumeCurs())
-                .append( " cu ")
-                .append(this.getCredite())
-                .append(" puncte credit, predat de ")
-                .append(((iPersoana)this.profesor).getNume())
-                .append(" are ")
-                .append(studenti.size())
-                .append(" studenti.");
+        String sb = "La cursul " + this.getNumeCurs() +
+                " cu " +
+                this.getCredite() +
+                " puncte credit, predat de " +
+                ((iPersoana) this.profesor).getNume() +
+                " are " +
+                studenti.size() +
+                " studenti.";
         System.out.println(sb);
     }
 
     public void sustineExamen(String data) {
-        StringBuilder sb = new StringBuilder("Pe data ")
-                .append(data)
-                .append(", cadrul didactic ")
-                .append(((iPersoana)this.profesor).getNume())
-                .append(" sustine examen cu urmatorii studenti: ");
-        System.out.println(sb.toString());
+        String sb = "Pe data " +
+                data +
+                ", cadrul didactic " +
+                ((iPersoana) this.profesor).getNume() +
+                " sustine examen cu urmatorii studenti: ";
+        System.out.println(sb);
         studenti.forEach(s -> System.out.println(s.getNume()));
     }
 }

@@ -2,9 +2,9 @@ package ro.cts.seminar04.Factory.clase;
 
 public abstract class Supa {
 
-    private int gramaj;
-    private double pretPerSutaDeGrame;
-    private String ingrediente;
+    private final int gramaj;
+    private final double pretPerSutaDeGrame;
+    private final String ingrediente;
 
     public Supa(int gramaj, double pretPerSutaDeGrame, String ingrediente) {
         this.gramaj = gramaj;

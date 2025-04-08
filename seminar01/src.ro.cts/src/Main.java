@@ -25,6 +25,6 @@ public class Main {
 
         curs.sustineExamen("10-iunie-2025");
 
-        ((iPredabil)curs.getProfesor()).preda();
+        curs.getProfesor().preda();
     }
 }

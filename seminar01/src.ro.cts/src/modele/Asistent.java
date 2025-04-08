@@ -4,7 +4,7 @@ import interfete.iPredabil;
 
 public class Asistent extends Persoana implements iPredabil {
     private int idAsistent;
-    private float salariu;
+    private final float salariu;
 
     public void setIdAsistent(int idAsistent) {
         this.idAsistent = idAsistent;

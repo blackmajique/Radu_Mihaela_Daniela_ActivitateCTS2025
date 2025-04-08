@@ -45,7 +45,7 @@ public abstract class Aplicant{
 		String mesaj = punctaj > punctajMinimPentruAcceptare
 				? "Aplicantul %s %s a fost acceptat."
 				: "Aplicantul %s %s nu a fost acceptat.";
-		System.out.println(String.format(mesaj, nume, prenume));
+		System.out.printf((mesaj) + "%n", nume, prenume);
 	}
 
 	

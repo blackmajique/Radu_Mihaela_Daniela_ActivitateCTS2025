@@ -1,8 +1,8 @@
 package Clase;
 
 public class SupaCiuperci extends Supa{
-    private float gramajCiuperci;
-    private float pretCiuperci;
+    private final float gramajCiuperci;
+    private final float pretCiuperci;
 
     public SupaCiuperci(float cantitate, float pret, boolean areSmantana, float pretCiuperci, float gramajCiuperci) {
         super(cantitate, pret, areSmantana);

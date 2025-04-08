@@ -1,9 +1,9 @@
 package Clase;
 
 public abstract class Supa {
-    private float cantitate;
-    private float pret;
-    private boolean areSmantana;
+    private final float cantitate;
+    private final float pret;
+    private final boolean areSmantana;
 
     public Supa(float cantitate, float pret, boolean areSmantana) {
         this.cantitate = cantitate;

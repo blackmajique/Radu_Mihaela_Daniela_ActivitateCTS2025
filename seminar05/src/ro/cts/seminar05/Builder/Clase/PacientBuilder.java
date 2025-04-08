@@ -1,7 +1,7 @@
 package ro.cts.seminar05.Builder.Clase;
 
 public class PacientBuilder implements AbstractBuilder {
-    private Pacient pacient;
+    private final Pacient pacient;
 
     public PacientBuilder(String nume){
         this.pacient = new Pacient(nume, false, false, false, false, "Un alt pacient");

@@ -1,7 +1,7 @@
 package ro.cts.seminar04.Factory.clase;
 
 public class SupaCiuperci extends Supa{
-    private double cantitateCiuperci;
+    private final double cantitateCiuperci;
 
     public SupaCiuperci(int gramaj, double pretPerSutaDeGrame, String ingrediente, double cantitateCiuperci) {
         super(gramaj, pretPerSutaDeGrame, ingrediente);

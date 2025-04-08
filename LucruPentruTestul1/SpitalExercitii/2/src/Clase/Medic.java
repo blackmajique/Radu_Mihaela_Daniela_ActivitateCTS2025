@@ -1,7 +1,7 @@
 package Clase;
 
 public class Medic extends Personal {
-    private int nrRetetePrescrisePeZi;
+    private final int nrRetetePrescrisePeZi;
 
     public Medic(String nume, float salariu, float sporDeMunca, boolean areBonuriDeMasa, int nrRetetePrescrisePeZi) {
         super(nume, salariu, sporDeMunca, areBonuriDeMasa);

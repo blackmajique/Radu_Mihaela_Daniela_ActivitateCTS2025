@@ -1,10 +1,10 @@
 package ro.cts.seminar06.Clase;
 
 public class MedicamentFarmacie {
-    private String numeMedicament;
-    private String dataExpirare;
-    private boolean esteInStoc;
-    private float pretMedicament;
+    private final String numeMedicament;
+    private final String dataExpirare;
+    private final boolean esteInStoc;
+    private final float pretMedicament;
 
     public MedicamentFarmacie(String numeMedicament, String dataExpirare, boolean esteInStoc, float pretMedicament) {
         this.numeMedicament = numeMedicament;

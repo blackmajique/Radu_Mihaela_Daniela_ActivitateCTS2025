@@ -3,8 +3,8 @@ package Clase.SimpleFactory;
 import Clase.Builder.Bicicleta;
 
 public class SimpleFactory {
-    private boolean cascaProtectie;
-    private boolean ochelari;
+    private final boolean cascaProtectie;
+    private final boolean ochelari;
 
     public SimpleFactory(boolean cascaProtectie, boolean ochelari) {
         this.cascaProtectie = cascaProtectie;

@@ -1,7 +1,7 @@
 package Clase;
 
 public class SupaVita extends Supa{
-    private boolean areArdeiIute;
+    private final boolean areArdeiIute;
 
 
     public SupaVita(float cantitate, float pret, boolean areSmantana, boolean areArdeiIute) {

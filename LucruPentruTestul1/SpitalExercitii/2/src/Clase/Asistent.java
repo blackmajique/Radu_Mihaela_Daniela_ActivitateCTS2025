@@ -1,7 +1,7 @@
 package Clase;
 
 public class Asistent extends Personal {
-    private int nrPacientiPeZi;
+    private final int nrPacientiPeZi;
 
     public Asistent(String nume, float salariu, float sporDeMunca, boolean areBonuriDeMasa, int nrPacientiPeZi) {
         super(nume, salariu, sporDeMunca, areBonuriDeMasa);

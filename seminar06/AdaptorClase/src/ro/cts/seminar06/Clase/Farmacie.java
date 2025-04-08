@@ -1,7 +1,7 @@
 package ro.cts.seminar06.Clase;
 
 public class Farmacie {
-    private String numeFarmacie;
+    private final String numeFarmacie;
 
     public Farmacie(String numeFarmacie) {
         this.numeFarmacie = numeFarmacie;

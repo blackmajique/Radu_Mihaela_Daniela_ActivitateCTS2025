@@ -1,7 +1,7 @@
 package ro.cts.seminar04.Factory.clase;
 
 public class SupaLegume extends Supa{
-    private double gramajCrutoane;
+    private final double gramajCrutoane;
 
     public SupaLegume(int gramaj, double pretPerSutaDeGrame, String ingrediente, double gramajCrutoane) {
         super(gramaj, pretPerSutaDeGrame, ingrediente);

@@ -2,9 +2,9 @@ package Clase;
 
 public class ContBancarBuilderV2 implements IBuilder{
     private String detinator;
-    private double sumaBlocata;
+    private final double sumaBlocata;
     private double suma;
-    private String moneda;
+    private final String moneda;
     private boolean cardAtasat;
     private boolean internetBanking;
     private boolean contSalariu;

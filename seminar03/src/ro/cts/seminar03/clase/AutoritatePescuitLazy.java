@@ -60,12 +60,11 @@ public class AutoritatePescuitLazy {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("AutoritatePescuitLazy{");
-        sb.append("denumire='").append(denumire).append('\'');
-        sb.append(", website='").append(website).append('\'');
-        sb.append(", nrAngajati=").append(nrAngajati);
-        sb.append(", nrAutorizatiiEmise=").append(nrAutorizatiiEmise);
-        sb.append('}');
-        return sb.toString();
+        String sb = "AutoritatePescuitLazy{" + "denumire='" + denumire + '\'' +
+                ", website='" + website + '\'' +
+                ", nrAngajati=" + nrAngajati +
+                ", nrAutorizatiiEmise=" + nrAutorizatiiEmise +
+                '}';
+        return sb;
     }
 }
