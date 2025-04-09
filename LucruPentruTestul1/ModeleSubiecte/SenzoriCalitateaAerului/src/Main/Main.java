@@ -14,7 +14,8 @@ package Main;
 //    3p. Un senzor de calitate a aerului oferă o plajă largă de masurători în funcție de model precum: nivel
 //    PM 2.5, nivel PM10, nivel VOC, nivel CO2, nivel CO, temperatură, umiditate, etc. Clasa aferentă unui
 //    senzor este derivată din interfața AbstractAirQualitySensor. Aplicația permite crearea de senzori
-//    ce dispun de toate capabilitățile sau doar o parte din ele. Un senzor odată creat nu mai poate fi modificat. În plus, se dorește ca procedeul de creare a unui senzor să poată utiliza o singură linie de
+//    ce dispun de toate capabilitățile sau doar o parte din ele. Un senzor odată creat nu mai poate fi modificat. În plus, se
+//    dorește ca procedeul de creare a unui senzor să poată utiliza o singură linie de
 //    cod. Implementați un design pattern ce rezolvă situația descrisă.
 //
 //    1.5p. Testați în main implementarea prin crearea a minim 3 senzori ce conțin diverse combinații de
