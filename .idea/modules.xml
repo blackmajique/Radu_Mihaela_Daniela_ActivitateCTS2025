@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/seminar06/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/seminar06/AdaptorClase/AdaptorClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" />
@@ -20,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SenzoriCalitateaAerului/SenzoriCalitateaAerului.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SenzoriCalitateaAerului/SenzoriCalitateaAerului.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/SimpleFactory/SimpleFactory.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/SimpleFactory/SimpleFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/seminar01/seminar01.iml" />
