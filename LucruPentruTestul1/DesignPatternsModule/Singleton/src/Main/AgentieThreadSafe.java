@@ -1,18 +1,21 @@
+package Main;
+
 import java.util.List;
 
-// instanța este creată doar atunci când ai nevoie de ea
-// la primul apel al metodei getInstance()
+// thread-safe singleton - asigura ca instanta se creeaza o singura data
+// funcționează corect atunci când este accesat simultan de mai multe threaduri (fire de execuție),
+// fără să apară erori sau comportamente neașteptate.
 
-public class AgentieLazyInitialization {
+public class AgentieThreadSafe {
     private String numeAgentie;
     private float capital;
     private int numarAngajati;
     private String codFiscal;
     private List<String> listaServicii;
 
-    private static AgentieLazyInitialization instance = null;
+    private static AgentieThreadSafe instance = null;
 
-    private AgentieLazyInitialization(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
+    private AgentieThreadSafe(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
         this.numeAgentie = numeAgentie;
         this.capital = capital;
         this.numarAngajati = numarAngajati;
@@ -62,7 +65,7 @@ public class AgentieLazyInitialization {
 
     @Override
     public String toString() {
-        return "AgentieEagerInitialization{" +
+        return "Main.AgentieThreadSafe{" +
                 "numeAgentie='" + numeAgentie + '\'' +
                 ", capital=" + capital +
                 ", numarAngajati=" + numarAngajati +
@@ -71,9 +74,9 @@ public class AgentieLazyInitialization {
                 '}';
     }
 
-    public static AgentieLazyInitialization getInstance(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
+    public static synchronized AgentieThreadSafe getInstance(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
         if (instance == null) {
-            instance = new AgentieLazyInitialization(numeAgentie, capital, numarAngajati, codFiscal, listaServicii);
+            instance = new AgentieThreadSafe(numeAgentie, capital, numarAngajati,codFiscal, listaServicii);
         }
         return instance;
     }

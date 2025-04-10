@@ -1,3 +1,5 @@
+package Main;
+
 import java.util.Arrays;
 import java.util.List;
 
@@ -64,7 +66,7 @@ public class AgentieEagerInitialization {
 
     @Override
     public String toString() {
-        return "AgentieEagerInitialization{" +
+        return "Main.AgentieEagerInitialization{" +
                 "numeAgentie='" + numeAgentie + '\'' +
                 ", capital=" + capital +
                 ", numarAngajati=" + numarAngajati +
@@ -72,7 +74,7 @@ public class AgentieEagerInitialization {
                 ", listaServicii=" + listaServicii +
                 '}';
     }
-    //    public static AgentieEagerInitialization getInstance(String nume, float capital, String codFiscal, int numarAngajati, List<String> listaServicii) {
+    //    public static Main.AgentieEagerInitialization getInstance(String nume, float capital, String codFiscal, int numarAngajati, List<String> listaServicii) {
 //        return instance;
 //    }
 

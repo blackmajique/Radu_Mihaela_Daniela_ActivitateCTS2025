@@ -1,3 +1,5 @@
+package Main;
+
 import java.util.Arrays;
 import java.util.List;
 
@@ -29,7 +31,7 @@ public class AgentieStaticBlock {
 
     @Override
     public String toString() {
-        return "AgentieStaticBlock{" +
+        return "Main.AgentieStaticBlock{" +
                 "numeAgentie='" + numeAgentie + '\'' +
                 ", capital=" + capital +
                 ", numarAngajati=" + numarAngajati +
@@ -78,7 +80,7 @@ public class AgentieStaticBlock {
         this.listaServicii = listaServicii;
     }
 
-//    public static AgentieStaticBlock getInstance(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
+//    public static Main.AgentieStaticBlock getInstance(String numeAgentie, float capital, int numarAngajati, String codFiscal, List<String> listaServicii) {
 //        return instance;
 //    }
 
