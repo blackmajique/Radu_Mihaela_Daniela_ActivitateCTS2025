@@ -4,7 +4,6 @@
 //facilitați extra, in cadrul aplicației sunt setate cu false. Să se dezvolte modulul care asigură crearea
 //de obiecte de tipul pacient cu opțiuni extra.
 
-import ro.cts.seminar05.Builder.Clase.AbstractBuilder;
 import ro.cts.seminar05.Builder.Clase.Pacient;
 import ro.cts.seminar05.Builder.Clase.PacientBuilder;
 

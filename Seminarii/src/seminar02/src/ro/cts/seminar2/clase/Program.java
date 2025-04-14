@@ -3,9 +3,7 @@ package ro.cts.seminar2.clase;
 import ro.cts.seminar2.readers.AngajatiReader;
 
 import java.io.FileNotFoundException;
-import java.io.Reader;
 import java.util.List;
-import java.util.Scanner;
 
 public class Program {
 

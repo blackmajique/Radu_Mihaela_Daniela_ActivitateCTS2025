@@ -1,6 +1,5 @@
 
 
-import interfete.iPredabil;
 import modele.Curs;
 import modele.Persoana;
 import modele.Profesor;
