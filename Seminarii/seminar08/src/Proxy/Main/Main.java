@@ -11,6 +11,7 @@ package Proxy.Main;
 
 import Proxy.Clase.IRezervare;
 import Proxy.Clase.ProxyNumarPersoane;
+import Proxy.Clase.ProxyOraRezervare;
 import Proxy.Clase.Rezervare;
 
 public class Main {
@@ -20,5 +21,7 @@ public class Main {
 
         IRezervare rezervare2 = new ProxyNumarPersoane(rezervare);
         rezervare2.rezerva("Maria", 2, 20);
+        IRezervare rezervare3 = new ProxyOraRezervare(rezervare);
+        rezervare3.rezerva("Maria", 2, 20);
     }
 }
