@@ -6,8 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar06/AdapterObiecte/AdapterObiecte.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar06/AdaptorClase/AdaptorClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/AdapterObiecte/AdapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/AdaptorClase/AdaptorClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
@@ -29,13 +29,14 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar01/seminar01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar02/seminar02.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar03/seminar03.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar03/seminar03.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar04/seminar04.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar04/seminar04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar05/seminar05.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar05/seminar05.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar06/seminar06.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar06/seminar06.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminarii/src/seminar01/src.ro.cts/src.ro.cts.iml" filepath="$PROJECT_DIR$/Seminarii/src/seminar01/src.ro.cts/src.ro.cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/Seminarii/seminar01/seminar01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar02/seminar02.iml" filepath="$PROJECT_DIR$/Seminarii/seminar02/seminar02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar03/seminar03.iml" filepath="$PROJECT_DIR$/Seminarii/seminar03/seminar03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar04/seminar04.iml" filepath="$PROJECT_DIR$/Seminarii/seminar04/seminar04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar05/seminar05.iml" filepath="$PROJECT_DIR$/Seminarii/seminar05/seminar05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/seminar06.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/seminar06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar08/seminar08.iml" filepath="$PROJECT_DIR$/Seminarii/seminar08/seminar08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar01/src.ro.cts/src.ro.cts.iml" filepath="$PROJECT_DIR$/Seminarii/seminar01/src.ro.cts/src.ro.cts.iml" />
     </modules>
   </component>
 </project>
