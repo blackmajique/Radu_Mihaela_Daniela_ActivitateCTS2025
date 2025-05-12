@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/GPTGeneratedSistemDeNotificari/GPTGeneratedSistemDeNotificari.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/GPTGeneratedSistemDeNotificari/GPTGeneratedSistemDeNotificari.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1/S1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1/S1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1Remake/S1Remake.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1Remake/S1Remake.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SingletonRegistrySubiect/SingletonRegistrySubiect.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SingletonRegistrySubiect/SingletonRegistrySubiect.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/SoundManager/SoundManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/SpitalExercitii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar10/Template/Template.iml" filepath="$PROJECT_DIR$/Seminarii/seminar10/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/TransmisiuniLive/TransmisiuniLive.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar01/seminar01.iml" filepath="$PROJECT_DIR$/Seminarii/seminar01/seminar01.iml" />
@@ -39,6 +41,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar05/seminar05.iml" filepath="$PROJECT_DIR$/Seminarii/seminar05/seminar05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/seminar06.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/seminar06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar08/seminar08.iml" filepath="$PROJECT_DIR$/Seminarii/seminar08/seminar08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/seminar09_recuperare.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/seminar09_recuperare.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar10/seminar10.iml" filepath="$PROJECT_DIR$/Seminarii/seminar10/seminar10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar01/src.ro.cts/src.ro.cts.iml" filepath="$PROJECT_DIR$/Seminarii/seminar01/src.ro.cts/src.ro.cts.iml" />
     </modules>
