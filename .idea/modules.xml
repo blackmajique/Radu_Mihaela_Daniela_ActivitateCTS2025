@@ -3,21 +3,26 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/12/12.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/12/12.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/AdapterObiecte/AdapterObiecte.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/AdapterObiecte/AdapterObiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar06/AdaptorClase/AdaptorClase.iml" filepath="$PROJECT_DIR$/Seminarii/seminar06/AdaptorClase/AdaptorClase.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/ChainOfResponsability/ChainOfResponsability.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/ChainOfResponsability/ChainOfResponsability.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Cinematograf/Cinematograf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar10/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminarii/seminar10/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar10/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/Seminarii/seminar10/Flyweight/Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/GPTGeneratedSistemDeNotificari/GPTGeneratedSistemDeNotificari.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/GPTGeneratedSistemDeNotificari/GPTGeneratedSistemDeNotificari.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/LucruPentruTestul1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/LucruPentruTestul2.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/LucruPentruTestul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1/S1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1/S1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1Remake/S1Remake.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/S1Remake/S1Remake.iml" />
