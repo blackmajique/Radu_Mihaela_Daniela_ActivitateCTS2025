@@ -1,4 +1,6 @@
-package cts.main;//F.10. Un calator are posibilitatea sa plateasca cu cardul de calatorii, cardul bancar sau prin SMS.
+package cts.main;
+
+//F.10. Un calator are posibilitatea sa plateasca cu cardul de calatorii, cardul bancar sau prin SMS.
 //Trebuie implementat modulul dintr-un validator calatorie care sa permita plata calatoriei printruna
 //din cele trei metode. Calatorul va decide modul de plata atunci cand se urca in mijlocul de
 //transport.
