@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/1/1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/2/2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A6_Facade/A6_Facade.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A6_Facade/A6_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A7_Decorator/A7_Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A7_Decorator/A7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/Abonamente/Abonamente.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Adapter/Adapter.iml" />
@@ -23,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F12_Chain/F12_Chain.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F12_Chain/F12_Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F5_Facade/F5_Facade.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F5_Facade/F5_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F7_Decorator/F7_Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F7_Decorator/F7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Facade/Facade.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/FactoryMethod/FactoryMethod.iml" />
@@ -33,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Comportamentale/ChainOfResponsability/ProblemaRestaurant/ProblemaRestaurant.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Comportamentale/ChainOfResponsability/ProblemaRestaurant/ProblemaRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeRestaurant/ProblemeRestaurant.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeRestaurant/ProblemeRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/ProblemeSpital.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/ProblemeSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/Prototype/Prototype.iml" />
