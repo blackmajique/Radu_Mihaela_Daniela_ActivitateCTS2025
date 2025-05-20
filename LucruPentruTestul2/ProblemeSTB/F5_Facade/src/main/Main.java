@@ -8,8 +8,13 @@ package main;
 //un buton pentru punerea tuturor usilor in modul liber si un alt buton pentru
 //deschiderea fortata a tuturor usilor.
 
+import clase.ButoaneFacade;
+import clase.SistemUsiAutobuz;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        Boolean esteUsaDeschisaFortat = false;
+        ButoaneFacade butoaneFacade = new ButoaneFacade();
+        butoaneFacade.butoaneDeschidereUsi(esteUsaDeschisaFortat);
     }
 }
