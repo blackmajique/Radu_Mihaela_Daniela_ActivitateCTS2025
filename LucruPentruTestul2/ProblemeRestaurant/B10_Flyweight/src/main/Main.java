@@ -31,7 +31,7 @@ public class Main {
             client1.descriereClient(masa2);
 
             IClient client2 = colectieClienti.getClient("Andrei", "222222222", "andrei@gamil.com");
-
+            System.out.println("Este acelasi client? " + client2.equals(client1));
         }catch (Exception e){
             e.printStackTrace();
         }
