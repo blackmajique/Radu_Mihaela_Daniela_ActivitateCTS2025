@@ -30,6 +30,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar10/Composite/Composite.iml" filepath="$PROJECT_DIR$/Seminarii/seminar10/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Composite1/Composite1.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Composite1/Composite1.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/Subiecte/SubiectPlatformaStreaming/CoompositeStreaming/CoompositeStreaming.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/Subiecte/SubiectPlatformaStreaming/CoompositeStreaming/CoompositeStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/D5_Adaptor/D5_Adaptor.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/D5_Adaptor/D5_Adaptor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/D6_Decorator/D6_Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/D6_Decorator/D6_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Structurale/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/Subiecte/SubiectPlatformaStreaming/DecoratorPlatformaStreaming/DecoratorPlatformaStreaming.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/Subiecte/SubiectPlatformaStreaming/DecoratorPlatformaStreaming/DecoratorPlatformaStreaming.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" />
@@ -50,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/ModeleSubiecte/ModeleSubiecte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" filepath="$PROJECT_DIR$/Seminarii/seminar09_recuperare/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Comportamentale/ChainOfResponsability/ProblemaRestaurant/ProblemaRestaurant.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/Comportamentale/ChainOfResponsability/ProblemaRestaurant/ProblemaRestaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/ProblemeBanca.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeBanca/ProblemeBanca.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeRestaurant/ProblemeRestaurant.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeRestaurant/ProblemeRestaurant.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/ProblemeSTB.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/ProblemeSpital.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/ProblemeSpital.iml" />

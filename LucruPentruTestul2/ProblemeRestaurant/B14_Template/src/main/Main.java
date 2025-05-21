@@ -15,6 +15,6 @@ public class Main {
 
         Rezervare rezervare = new Rezervare("Marian", 4);
         masa.ocupaMasa(rezervare);
-        
+
     }
 }
