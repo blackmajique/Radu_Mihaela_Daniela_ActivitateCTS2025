@@ -18,7 +18,7 @@ public class Main {
         IRezervare rezervare = new Rezervare();
 
         IRezervare rezervareNrPersoane = new VerificareOraRezervare(rezervare);
-        
+
         rezervareNrPersoane.rezerva("20.08.2025", "17:00", "Daniel", 5);
         rezervareNrPersoane.rezerva("20.09.2025", "17:00", "Daniel", 3);
 
