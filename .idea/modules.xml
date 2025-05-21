@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/SpitalExercitii/4/4.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A10_Flyweight/A10_Flyweight.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A10_Flyweight/A10_Flyweight.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A11_Strategy/A11_Strategy.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A11_Strategy/A11_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A12_Observer/A12_Observer.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A12_Observer/A12_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A6_Facade/A6_Facade.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A6_Facade/A6_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A7_Decorator/A7_Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A7_Decorator/A7_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A8_Composite/A8_Composite.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSpital/A8_Composite/A8_Composite.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" filepath="$PROJECT_DIR$/LucruPentruTestul1/DesignPatternsModule/DesignPatternsModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F10_Strategy/F10_Strategy.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F10_Strategy/F10_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F11_Observer/F11_Observer.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F11_Observer/F11_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F12_Chain/F12_Chain.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F12_Chain/F12_Chain.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F5_Facade/F5_Facade.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F5_Facade/F5_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F7_Decorator/F7_Decorator.iml" filepath="$PROJECT_DIR$/LucruPentruTestul2/ProblemeSTB/F7_Decorator/F7_Decorator.iml" />
